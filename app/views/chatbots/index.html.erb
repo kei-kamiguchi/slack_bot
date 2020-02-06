@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Chatbots</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Message</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @chatbots&.each do |chatbot| %>
+      <tr>
+        <td><%= chatbot.name %></td>
+        <td><%= chatbot.message %></td>
+        <td><%= link_to 'Show', chatbot %></td>
+        <td><%= link_to 'Edit', edit_chatbot_path(chatbot) %></td>
+        <td><%= link_to 'Destroy', chatbot, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Chatbot', new_chatbot_path %>

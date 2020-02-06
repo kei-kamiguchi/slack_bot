@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @chatbot.name %>
+</p>
+
+<p>
+  <strong>Message:</strong>
+  <%= @chatbot.message %>
+</p>
+
+<%= link_to 'Edit', edit_chatbot_path(@chatbot) %> |
+<%= link_to 'Back', chatbots_path %>
