@@ -1,7 +1,5 @@
 # README
 
-## EventApp
-
 ## カタログ設計
 https://docs.google.com/spreadsheets/d/1T977sKpbQx5gNvVo8IgM_CHKmq6bStvrKwOoWFpWAGA/edit#gid=1341925943
 
@@ -16,8 +14,3 @@ https://docs.google.com/spreadsheets/d/1T977sKpbQx5gNvVo8IgM_CHKmq6bStvrKwOoWFpW
 
 ## ワイヤーフレーム
 https://cacoo.com/diagrams/D3pKrRUTIBbOOgIK/EBBC6
-
-## 使用予定gem
-- carrierwave
-- mini_magick
-- devise
