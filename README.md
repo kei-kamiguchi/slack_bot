@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## TodoApp
 
-Things you may want to cover:
+## カタログ設計
+https://docs.google.com/spreadsheets/d/1T977sKpbQx5gNvVo8IgM_CHKmq6bStvrKwOoWFpWAGA/edit#gid=1341925943
 
-* Ruby version
+## テーブル定義書
+https://docs.google.com/spreadsheets/d/1T977sKpbQx5gNvVo8IgM_CHKmq6bStvrKwOoWFpWAGA/edit#gid=200291182
 
-* System dependencies
+## ER図
+https://cacoo.com/diagrams/vUTV6PcR0NFEcCzb/45DDB
 
-* Configuration
+## 画面遷移図
+https://docs.google.com/spreadsheets/d/1T977sKpbQx5gNvVo8IgM_CHKmq6bStvrKwOoWFpWAGA/edit#gid=200291182
 
-* Database creation
+## ワイヤーフレーム
+https://cacoo.com/diagrams/D3pKrRUTIBbOOgIK/EBBC6
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用予定gem
+- carrierwave
+- mini_magick
+- devise
