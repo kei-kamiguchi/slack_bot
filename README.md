@@ -1,6 +1,6 @@
 # README
 
-## TodoApp
+## EventApp
 
 ## カタログ設計
 https://docs.google.com/spreadsheets/d/1T977sKpbQx5gNvVo8IgM_CHKmq6bStvrKwOoWFpWAGA/edit#gid=1341925943
